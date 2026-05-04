@@ -2,6 +2,8 @@
 
 https://youtu.be/raf2PFvBf1Q
 
+https://github.com/itu-itis23-ucgun22/wikisage
+
 A privacy-first, fully offline question-answering system that draws on Wikipedia content to answer queries about notable people and locations. It combines vector-based retrieval with a locally-running language model — no internet connection or cloud API required after the initial setup.
 
 ## 🏗️ Architecture
