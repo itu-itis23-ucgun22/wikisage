@@ -1,5 +1,7 @@
 # 🔍 WikiSage — Local Wikipedia RAG Assistant
 
+https://youtu.be/raf2PFvBf1Q
+
 A privacy-first, fully offline question-answering system that draws on Wikipedia content to answer queries about notable people and locations. It combines vector-based retrieval with a locally-running language model — no internet connection or cloud API required after the initial setup.
 
 ## 🏗️ Architecture
